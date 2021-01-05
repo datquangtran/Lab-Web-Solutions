@@ -1,0 +1,68 @@
+.contact_detail{
+    width: 700px;
+    float: left;
+}
+.contact_detail h2{
+    font-size: 28px;
+    font-weight: 600;
+}
+.contact_detail h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+.contact_detail hr{
+    border: 0;
+    border-bottom: dotted 2px lightgray;
+    margin-bottom: 20px;
+}
+.element_ct{
+    margin-bottom: 10px;
+}
+.element_ct span{
+    display: block;
+}
+.contact_form{
+    margin-top: 10px;
+    width: 100%;
+}
+.contact_form input{
+    width: 328px;
+    height: 22px;
+    font-size: 16px;
+    padding: 4px 6px;
+    border: solid lightgray 1px;
+    border-radius: 6px;
+}
+.contact_form textArea{
+    resize: none;
+    width: 686px;
+    height: 150px;
+    font-size: 16px;
+    padding: 4px 6px;
+    margin-bottom: 20px;
+    border: solid lightgray 1px;
+    border-radius: 6px;
+}
+.elm_one{
+    float: left;
+    width: 342px;
+    margin-right: 16px;
+    margin-bottom: 12px;
+}
+.elm_two{
+    float: left;
+    width: 342px;
+}
+.contact_form button{
+    color: white;
+    font-size: 16px;
+    background-color: #3fb1a2;
+    border: solid #3fb1a2;
+    padding: 3px 10px;
+    border-radius: 18px;
+    float: right;
+}
+::placeholder{
+    font-family: Arial, sans-serif;
+    color: lightgray;
+}

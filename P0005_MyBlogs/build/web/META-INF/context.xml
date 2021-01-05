@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/P0005_MyBlogs">
+    <Environment name="hostName" type="java.lang.String" value="localhost"/>
+    <Environment name="portNumber" type="java.lang.String" value="1433"/>
+    <Environment name="databaseName" type="java.lang.String" value="P0005"/>
+    <Environment name="image" type="java.lang.String" value="images/"/>
+</Context>

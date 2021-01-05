@@ -1,0 +1,52 @@
+
+/*css on contact page*/
+.contact_box{
+    width: 430px;
+    float: left;
+    padding-left: 25px;
+}
+.contact_box fieldset{
+    border: dashed 1px #cda5a5;
+    padding: 20px;
+    padding-right: 0px;
+}
+.contact_box legend{
+    padding: 5px 10px;
+    background-color: #9b1d1f;
+    color: white;
+}
+.row_contact{
+    margin: 10px 0;
+}
+.row_contact input, textarea{
+    width: 200px;
+    margin-left: 5px;
+    margin-right: 45px;
+}
+.row_contact textarea{
+    height: 70px;
+    padding: 1px;
+}
+.row_contact button{
+    background: url(../images/contact_bt.gif);
+    border: 0px;
+    width: 53px;
+    height: 24px;
+    color: white;
+    padding: 4px 10px 2px;
+    margin-right: 71px;
+    float: right;
+}
+.elm_one{
+    float: left;
+    width: 119px;
+    margin-right: 5px;
+    margin-bottom: 12px;
+    text-align: right;
+}
+.elm_two{
+    float: left;
+    width: 260px;
+    margin-bottom: 6.8px;
+}
+/*end of contact page*/

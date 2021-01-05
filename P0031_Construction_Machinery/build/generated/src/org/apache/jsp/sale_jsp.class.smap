@@ -1,0 +1,31 @@
+SMAP
+sale_jsp.java
+JSP
+*S JSP
+*F
++ 0 sale.jsp
+sale.jsp
++ 1 header.jsp
+elementJSP/header.jsp
++ 2 right_menu.jsp
+elementJSP/right_menu.jsp
++ 3 footer.jsp
+elementJSP/footer.jsp
+*L
+5,21:61
+1#1,8:82
+9,4:90,3
+13,2:102
+25#0,14:104
+38:192,11
+39:203
+40:204,3
+41:207,5
+42:212,3
+43,3:215
+45,6:120
+1#2,15:126
+50#0,9:141
+1#3,17:150
+58#0,8:167
+*E

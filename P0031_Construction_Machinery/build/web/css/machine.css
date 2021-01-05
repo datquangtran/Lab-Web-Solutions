@@ -1,0 +1,16 @@
+.mc_content{
+    margin: 40px 0px 0px;
+}
+.mc_content h3{
+    font-size: 28px;
+    margin-top: 51px;
+    margin-bottom: 24px;
+    font-weight: 600;
+}
+.mc_content img{
+    max-width: 70%;
+    margin-bottom: 24px;
+}
+.mc_content p {
+    margin: 15px 0px;
+}

@@ -1,0 +1,30 @@
+SMAP
+home_jsp.java
+JSP
+*S JSP
+*F
++ 0 home.jsp
+home.jsp
++ 1 right_menu.jsp
+elementJSP/right_menu.jsp
++ 2 footer.jsp
+elementJSP/footer.jsp
+*L
+5,18:60
+23:78,2
+24,20:80
+44,4:100,3
+48,7:112
+54:193,13
+55,3:206
+57:240,13
+58:253
+59,3:254,3
+62,2:263
+63,5:211
+67,8:121
+1#1,15:129
+74#0,9:144
+1#2,17:153
+82#0,6:170
+*E

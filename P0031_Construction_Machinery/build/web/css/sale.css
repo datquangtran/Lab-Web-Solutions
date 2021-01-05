@@ -1,0 +1,25 @@
+.sale_detail{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.sale_detail h3{
+    font-size: 28px;
+    margin-top: 51px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.sale_detail a{
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 11px;
+}
+.sale_detail img{
+    width: 160px;
+    height: auto;
+    float: left;
+    border-radius: 10px;
+    margin: 3px 20px 8px 0;
+}

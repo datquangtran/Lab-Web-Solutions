@@ -1,0 +1,17 @@
+.infor_dt{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.infor_dt h3{
+    font-size: 28px;
+    margin-top: 51px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.infor_dt img{
+    width: 332.8px;
+    height: 216.3px;
+    float: right;
+    border-radius: 10px;
+    margin: 3px 0 8px 20px;
+}

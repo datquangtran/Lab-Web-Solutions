@@ -1,0 +1,114 @@
+/*main body*/
+body{
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    background-color: #e7e7e7;
+}
+.container {
+    background: url(../images/bg.jpg) center;
+    width: 886px;
+    margin: auto;
+}
+
+/*top_header*/
+.preheader{
+    background: url(../images/preheader.jpg) center;
+    height: 71px;
+}
+.header{
+    background: url(../images/header.jpg) center;
+    height: 78px;
+}
+.header p{
+    margin: 0;
+    padding-left: 84px;
+    color: white;
+    font-size: 16px;
+}
+/*menu*/
+.menu{
+    background: url(../images/menu.jpg) center ;
+    height: 32px;
+}
+.menu p{
+    margin: 0;
+    padding-top: 8px;
+    padding-left: 84px;
+    color: white;
+}
+/*end of header*/
+
+/*content*/
+.content{
+    background: url(../images/bg.jpg) center;
+}
+.content_p{
+    padding-left: 84px;
+}
+
+/*artile*/
+.article {
+    width: 480px;
+    float: left;
+    padding-left: 84px;
+    padding-right: 20px;
+    border-right: dashed gray 1px;    
+}
+.article_img{
+    max-width: 80%;
+}
+.article_detail{
+    margin: 30px 0;
+    padding: 5px ;
+    border-top: solid lightgrey 1px;
+    text-align: right;
+}
+.article h2, .article_detail p{
+    color: darkolivegreen;
+    display: inline;
+}
+.article_detail p:before{
+    content: url(../images/comment.gif) url(../images/timeicon.gif);
+    margin-right: 3px;
+}
+.article a{
+    text-decoration: none;
+}
+.article span{
+    color: black;
+}
+
+/*right menu*/
+.right_side{
+    margin-left: 68%; 
+    margin-right: 10%;
+}
+.right_side input{
+    width: 150px;
+    border: dashed darkolivegreen 1px;
+}
+.right_side button{
+    border: 0;
+    background-color: white;
+    font-size: 14px;
+}
+.right_side h2, a{
+    color: darkolivegreen;
+}
+
+.clear{
+    clear: both;
+}
+/*end article*/
+
+/*footer*/
+.footer {
+    background: url("../images/footer.jpg") center;
+    height: 78px;
+}
+/*end footer*/
+
+/*error*/
+.error {
+    color: red;
+}

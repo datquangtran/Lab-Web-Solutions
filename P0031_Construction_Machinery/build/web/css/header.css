@@ -1,0 +1,46 @@
+/*header*/
+.header{
+    background-color: #ffe541;
+    padding: 0px 20px;
+}
+
+/*title*/
+.h_title{
+    padding: 30px 0px;
+}
+.h_title a{
+    color: black;
+    padding: 6px 0px;
+    font-size: 48px;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: none;
+}
+.h_title a:hover{
+    text-decoration: underline;
+}
+.h_title p{
+    font-size: 22px;
+    margin: 2px 0px 1px;
+}
+/*navigation bar*/
+.navbar{
+    background-color: #303030;
+    height: 35px;
+    margin: 0px -20px;
+}
+.navbar a{
+    color: white;
+    float: left;
+    height: 20px;
+    padding: 5px 10px 2px;
+    margin: 4px 5px 0px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    text-decoration: underline;
+}
+
+.active{
+    font-weight: 700;
+}
