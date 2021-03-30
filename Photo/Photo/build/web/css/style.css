@@ -1,0 +1,130 @@
+.container{
+    height: auto;
+    background-color: palegoldenrod;
+}
+
+.view {
+    margin-top: 0px;
+    color: #333;
+    background: #fff;
+    border-radius: 5px;
+    padding: 3px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 444px;
+}
+
+.col{
+    width: 100%;
+    /*display: flex;*/
+    flex-wrap: wrap;
+    width: 700px
+}
+.row{
+    width: 33.33%;
+}
+.flex-container{
+    display: flex;
+}
+.nav-bar{
+    padding-left: 60px;
+    color: white;
+    background-color: #2c2524 ;
+    height: 35px;
+    display: flex;
+}
+.nav-item{
+    padding-right: 10px;
+    margin-top: 9px;
+    border-left: 0.1px solid #EEDCDC ;
+    padding-left: 10px;
+}
+.nav{
+    color: #c5c5c5;
+    text-decoration: none;
+}
+.header{
+    background-color: #552424;
+    height: 100px;
+    padding-left: 60px;
+    padding-top: 20px;
+    display: flex;
+    color: #c5c5c5;
+}
+.header-name{
+    padding-left: 10px;
+}
+.photo{
+    font-weight: bold;
+    padding: none;
+    margin: 0px;
+    font-size: 37px;
+}
+.main{
+    background-image: url("../img/background.png");
+    padding-left: 60px;
+    padding-top: 30px;
+    color: #c5c5c5;
+    padding-bottom: 50px;
+}
+.left img{
+    height: 400px;
+}
+.pause{
+    position: absolute;
+    height: 60px !important;
+    margin-top: 160px;
+    margin-left: 225px;
+}
+.left p{
+    margin-top: 0px
+}
+.galleryShort{
+    width: 150px;
+    margin-right: 70px;
+    margin-top: 20px;
+}
+.galleryShort img{
+    width: 150px;
+    height: auto;
+    background: #fff;
+    padding: 30px 10px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+.about-me{
+    width: 600px;
+}
+.share{
+    width: 200px;
+    height: 40px;
+    background-color: #2c2524;
+    margin-bottom: 0px;
+    padding-left: 10px;
+    padding-top: 12px;
+    margin-top: 0px;
+}
+.list-unstyled{
+    list-style: none;
+    width: 200px;
+    height: 70px;
+    background-color: #552424;
+    margin-top: 0px;
+    padding-left: 10px
+}
+.list-unstyled a{
+    color:#c5c5c5;
+    text-decoration: none;
+}
+.social-icon{
+    width: 10px;
+    height: 20px;
+}
+.footer{
+    background-color: #2c2524;
+    height: 25px;
+}
+.footer a{
+    color: #c5c5c5;
+    padding-left: 60px;
+}
